@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋, I'm Eliot a Software Engineer from France :</h2>
+<h2 align="left">Hi 👋, I'm Eliot an AI Software Engineer from France :</h2>
 
 ###
 
-<p align="left">📚 Studying AI and maths @ Dauphine University<br>👨‍💻 Working on a AI chatbot project using a RAG<br>💼 Interned in Software Engineering & Quality Assurance</p>
+<p align="left">📚 Studying AI and maths @ Dauphine - PSL University<br>💼 Interned in Software Engineering, Quality Assurance & AI Reasearch</p>
 
 ###
 
