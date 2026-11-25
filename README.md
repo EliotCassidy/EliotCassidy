@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 Studying AI and maths @ Dauphine - PSL University<br>💼 Interned in Software Engineering, Quality Assurance & AI Research<br>🥇Hackathons : TOP 5 @ GOSIM PARIS 2026 & @ H COMPANY 2026</p>
+<p align="left">📚 Studying AI and maths @ Dauphine - PSL University<br>💼 Interned in Software Engineering, Quality Assurance & AI Research<br>🥇Hackathons : TOP 5 @ GOSIM PARIS 2026 & @ H COMPANY 2026 / TOP 1 @ Trophées NSI</p>
 
 ###
 
